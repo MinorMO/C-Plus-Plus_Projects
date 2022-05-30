@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1628483893 source:c:\users\minor\desktop\c++\tarea 2 minor marin obando\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
+1628483893 source:d:\nueva carpeta\c++\tarea 2 minor marin obando\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
+1628483893 source:c:\users\minor\downloads\nueva carpeta (3)\tareas de programacion\c++ tareas\tarea 2 minor marin obando\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
